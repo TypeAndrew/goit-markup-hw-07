@@ -48,7 +48,7 @@
     color: var(--color-brown);
 }
 
-.portfolio-project-element {
+.portfolio__project-element {
     position: relative;
     padding: 20px 24px;
     border: 1px solid var(--color-border);
@@ -77,8 +77,6 @@
     transform: translateY(100%);
     transition: transform 250ms ease;
 
-
-    
 
     font-size: 18px;
     line-height: 1.14;

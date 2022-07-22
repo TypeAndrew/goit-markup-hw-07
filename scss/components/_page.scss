@@ -17,6 +17,11 @@
     
         }
         
+        &--current {
+            color: var(--color-blue);
+
+        }
+        
         &:hover {
             color: var(--color-blue);
             text-decoration: none;
@@ -28,7 +33,7 @@
         }
 }
 
-.current-page:hover {
+.page--current:hover {
     color: var(--color-blue);
     text-decoration: none;
     text-decoration-line: none;

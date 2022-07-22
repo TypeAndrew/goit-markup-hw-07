@@ -43,6 +43,20 @@
 
     }
 
+    &__tittle {
+        /*padding-bottom: 50px;
+    margin-top: 8px;*/
+        margin-bottom: 20px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        text-transform: uppercase;
+        line-height: 1.14;
+
+        letter-spacing: 0.03em;
+        color: var(--color-white);
+    }
+    
     .conteiner .logo {
         margin-bottom: 20px;
     }

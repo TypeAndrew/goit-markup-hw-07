@@ -1,4 +1,4 @@
-.main-filters {
+.main-projects {
     background: var(--color-white);
 }
 
@@ -24,10 +24,6 @@
     flex-basis: calc(100% / 3 - var(--project-item-gep));
     margin-left: var(--project-item-gep);
     margin-top: var(--project-item-gep);
-}
-
-.portfolio__project-menu:nth-child(3n) {
-    margin-left: 50px;
 }
 
 .portfolio__project-item {

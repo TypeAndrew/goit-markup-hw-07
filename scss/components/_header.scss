@@ -15,6 +15,12 @@
         margin-left: auto;
     }
 
+    &__nav {
+
+        display: flex;
+        align-items: center;
+    }
+
     .conteiner {
             display: flex;
             align-content: center;

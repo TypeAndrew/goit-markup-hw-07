@@ -1,6 +1,7 @@
 /*Modal window*/
 .backdrop {
-
+    position: fixed;
+    background-color: var(---color-white);
     width: 100%;
     height: 100%;
     background: var(--color-white);
